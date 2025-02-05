@@ -52,7 +52,7 @@ int main() {
 
     while (true) {
         sleep_ms(1000);
-        printf("rotina de repetição\n");
+        printf("rodando\n");
     }
     return 0;
 }
